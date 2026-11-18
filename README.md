@@ -83,6 +83,7 @@ Email Me 👉 ✉️ **hassan.developer033@gmail.com** For Collaboration/Project
 
 | Certification | Issuer | Date | Credential |
 | --- | --- | --- | --- |
+| Data Analysis with Python Developer Certification | freeCodeCamp | Nov 2026 | [Verify](https://www.freecodecamp.org/certification/fcc-0143708a-0ca3-40f9-aa7b-0d530c28ba22/data-analysis-with-python-v7) |
 | IELTS 6.5 | British Council | 27 Apr 2025 | — |
 | Google Ads Search Certification | Google Digital Academy (Skillshop) | Feb 2023 | [Verify](https://skillshop.exceedlms.com/student/award/LCdSdNWVyTVVKT5S1RPw9t61) · Expired 1 Feb 2024 |
 | PPC Automation | Semrush | Feb 2023 | [Certificate (PDF)](https://static.semrush.com/academy/certificates/97afb28afb/hassan-bakhtiar_2.pdf) · Expired Feb 2024 |
